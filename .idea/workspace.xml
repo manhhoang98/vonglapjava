@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b533f105-a9da-4621-8979-29a5de314f9a" name="Changes" comment="ok">
-      <change afterPath="$PROJECT_DIR$/src/Thuchanhtimuocchunglonnhat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b533f105-a9da-4621-8979-29a5de314f9a" name="Changes" comment="ok" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +44,7 @@
       <option name="presentableId" value="Default" />
       <updated>1662428718364</updated>
       <workItem from="1662428719658" duration="131000" />
-      <workItem from="1662428931953" duration="5578000" />
+      <workItem from="1662428931953" duration="5897000" />
     </task>
     <task id="LOCAL-00001" summary="ok">
       <created>1662435478828</created>
@@ -70,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662436853181</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ok">
+      <created>1662437571469</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1662437571469</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
